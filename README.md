@@ -1,0 +1,2 @@
+# arh
+Arch Minimal Installer
