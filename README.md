@@ -1,2 +1,2 @@
 # archlinux
-Archinstall Minimal Installer
+Archinstall Installer
